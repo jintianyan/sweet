@@ -1,13 +1,13 @@
-package com.example.sweet;
+package com.sweet;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SweetApplication {
+public class EurekaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SweetApplication.class, args);
+		SpringApplication.run(EurekaApplication.class, args);
 	}
 
 }
